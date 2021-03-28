@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<mirror-sites>
+  <mirror-site-factory id="baidu-netdisks">
+    <executable>factory.py</executable>
+  </mirror-site-factory>
+</mirror-sites>
